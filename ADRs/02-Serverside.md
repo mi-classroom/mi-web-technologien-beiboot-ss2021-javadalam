@@ -13,16 +13,16 @@ Es ist zu wichtig, welche Programmiersprache beziehungsweise welches Framework w
 # Berücksichtigte Optionen
 
 * [Node.js](https://nodejs.org/en/)
- *  [Express js](https://expressjs.com/de/) 
- *  [Meteor](https://www.meteor.com/)
- *  [Loopback](https://loopback.io/)
+  * [Express js](https://expressjs.com/de/) 
+  * [Meteor](https://www.meteor.com/)
+  * [Loopback](https://loopback.io/)
 
 * [PHP](https://www.php.net/)
- *  [Laravell](https://laravel.com/)
+  * [Laravell](https://laravel.com/)
 
 * [Python](https://www.python.org/)
- *  [Django](https://www.djangoproject.com/)
- *  [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+  * [Django](https://www.djangoproject.com/)
+  * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 
 
