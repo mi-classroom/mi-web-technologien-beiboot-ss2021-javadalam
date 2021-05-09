@@ -7,7 +7,7 @@ Technische Geschichte: Im Modul Webtechnologie in Sommersemester 2021 haben wir 
 
 # Kontext und Fragestellung
 
-Es ist zu wichtig, welche Programmiersprache beziehungsweise welches Framework wir verwenden wollen, denn meine Auswahl muss das Routing und die Bereitstellung der Bilder ermöglichen. weitere Informationen finden Sie in den [Issues #1] (https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1)
+Es ist zu wichtig, welche Programmiersprache beziehungsweise welches Framework wir verwenden wollen, denn meine Auswahl muss das Routing und die Bereitstellung der Bilder ermöglichen. weitere Informationen finden Sie in den [Issues #1](https://github.com/mi-classroom/mi-master-wt-beiboot-2021/issues/1)
 
 
 # Berücksichtigte Optionen
