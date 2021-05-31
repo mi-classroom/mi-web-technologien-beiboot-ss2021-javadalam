@@ -65,7 +65,6 @@ app.post("/image", (req, res) => {
 function getImage(initpath) {
     const image = [];
     
-
         const find = fs.readdirSync(initpath, { withFileTypes: true });
         find.forEach((item) => {
             const path = initpath + "/" + item.name;
@@ -83,5 +82,3 @@ function getImage(initpath) {
         });
         return image;
     }  
-
-
